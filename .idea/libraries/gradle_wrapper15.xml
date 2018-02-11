@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="gradle-wrapper15">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Lesson08-Quiz-Example/T08.02-Exercise-AddAsyncTaskToRetrieveCursor/gradle/wrapper/gradle-wrapper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/gradle/wrapper/gradle-wrapper.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="gradle-wrapper108">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Lesson09-ToDo-List/T09.02-Solution-AddURIsToContract/gradle/wrapper/gradle-wrapper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Solution-CreateLayout/gradle/wrapper/gradle-wrapper.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

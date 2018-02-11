@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="gradle-wrapper115">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Lesson07-Waitlist/T07.05-Exercise-AddGuests/gradle/wrapper/gradle-wrapper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/gradle/wrapper/gradle-wrapper.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

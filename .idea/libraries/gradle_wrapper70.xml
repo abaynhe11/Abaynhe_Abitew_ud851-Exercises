@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="gradle-wrapper70">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Lesson12-Visual-Polish/T12.01-Solution-ColorsAndFonts/gradle/wrapper/gradle-wrapper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lesson06-Visualizer-Preferences/T06.02-Exercise-MakeAPreferenceFragment/gradle/wrapper/gradle-wrapper.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

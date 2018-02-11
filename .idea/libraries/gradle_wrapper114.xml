@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="gradle-wrapper114">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Lesson06-Visualizer-Preferences/T06.07-Solution-ListPreference/gradle/wrapper/gradle-wrapper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lesson10-Hydration-Reminder/T10.06-Exercise-StickyBroadcastForCharging/gradle/wrapper/gradle-wrapper.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

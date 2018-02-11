@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="gradle-wrapper133">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Lesson09-ToDo-List/T09.02-Exercise-AddURIsToContract/gradle/wrapper/gradle-wrapper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lesson06-Visualizer-Preferences/T06.07-Solution-ListPreference/gradle/wrapper/gradle-wrapper.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

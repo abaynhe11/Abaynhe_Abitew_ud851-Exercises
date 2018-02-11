@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="gradle-wrapper130">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Lesson09-ToDo-List/T09.06-Solution-Delete/gradle/wrapper/gradle-wrapper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lesson10-Hydration-Reminder/T10.04-Exercise-PeriodicSyncWithJobDispatcher/gradle/wrapper/gradle-wrapper.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

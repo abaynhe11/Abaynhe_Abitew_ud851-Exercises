@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="gradle-wrapper">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Lesson04a-Starting-New-Activities/T04a.01-Exercise-AddNewActivity/gradle/wrapper/gradle-wrapper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lesson06-Visualizer-Preferences/T06.04-Solution-UseResources/gradle/wrapper/gradle-wrapper.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

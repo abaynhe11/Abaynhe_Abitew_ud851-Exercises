@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="gradle-wrapper100">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Lesson09-ToDo-List/T09.05-Solution-QueryAllTasks/gradle/wrapper/gradle-wrapper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lesson06-Visualizer-Preferences/T06.03-Solution-ReadingFromSharedPreferences/gradle/wrapper/gradle-wrapper.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
